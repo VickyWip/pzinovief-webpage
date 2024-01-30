@@ -1,0 +1,47 @@
+{
+    "navigation": {
+      "home": "Главная",
+      "team": "Команда",
+      "blog": "Блог",
+      "contact": "Контакты"
+    },
+    "landingPage": {
+      "name": "Панайотис Зиновиев",
+      "lawOfficeLabel": "Юридическая контора",
+      "aboutTitle": "Готовы поддержать вас",
+      "siteLabel": "Бла бла бла бла бла бла",
+      "siteLabel2": "Положите свое дело на нас",
+      "redBoxTitle": "<span>12</span> Лет опыта",
+      "whyChooseTitle": "Почему выбрать нас",
+      "devotion": "Преданность",
+      "passion": "Страсть",
+      "experience": "Опыт",
+      "servicesTitle": "Наши услуги",
+      "businessConsulting": "Бизнес-консалтинг",
+      "familyLaw": "Семейное право",
+      "realEstate": "Недвижимость",
+      "aboutText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore maali quyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores",
+      "whyChooseDesc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.",
+      "whyChooseLabel": "Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna."
+    },
+    "teamPage": {
+      "teammate1": "Билл Гейтс",
+      "teammate2": "Илон Маск",
+      "teammateDescription": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren."
+    },
+    "blog": {
+      "blogTitle": "Последние статьи",
+      "article1Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore. Lorem ipsum dolor sit amet, conse sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna. Lorem ipsum dolor sit amet, consetetur sadipscing elit.",
+      "article1Title": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.",
+      "article2Title": "Lorem ipsum dolor sit amet, consetetur sadipscing.",
+      "article2Text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et erebum."
+    },
+    "contactPage": {
+      "contactTitle": "Свяжитесь с нами"
+    },
+    "common": {
+      "readMore": "Читать дальше",
+      "submit": "ПОДТВЕРДИТЬ",
+      "learnMore": "Узнать больше"
+    }
+  }  
